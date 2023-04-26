@@ -1,0 +1,4 @@
+Terrain generation assignment.
+Works to specification
+Paths are straight and regions are rectangular
+20 regions are chosen with the highest probability region being tall grass. The default region is rock. In the event that the user gets unlucky a failsafe ensures that if 2 of clearing and tall grass have not been made yet within the last few iterations of the loop then it will make those regions instead. Size of regions is semi random with a minimum size being defined. Mart and center are always located on the East West path at a random location. The mart and center are defaulted to above the path but may be below if the path is at the top. 

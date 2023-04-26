@@ -1,0 +1,4 @@
+A 400 by 400 grid of randomly generated terrains that meet the terrain criteria from before. Basic console inputs allow movement between the maps. Assignment meets all criteria. Ran in pyrite. 
+2 Known bugs
+1. A gap can appear in the north south path
+2. Spawns for the center at 0 0 can randomly not happen

@@ -1,0 +1,3 @@
+09/14/22 - Adding in wavy paths and map array. 400 by 400 grid of terrain with paths the connect and basic console commands to get around to them.
+
+09/07/22 - Added in terrain generation to start off the project. Terrain generation currently has straight paths and rectangular regions

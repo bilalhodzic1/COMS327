@@ -1,0 +1,18 @@
+
+09/07/22-Added terrain generation with several different types of terrain
+
+09/14/22-Created an array of maps that you can move between
+
+09/28/22- Added distance maps with randomly placed NPCS
+
+10/05/22- Added player character and different NPC trainer types(Switched to
+given solution at this point
+
+10/19/22- Program runs in ncurses now with a user interface
+
+10/26/22- Program now is in c++ (moving between maps is a work in progress at
+this point)(Still on the given solution)
+11/3/22- Added Csv parsing for the given things
+11/9/22- Added random pokemon ecounters!
+11/28/22- Added battles
+
